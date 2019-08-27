@@ -6,7 +6,7 @@
 
 Blog posts: 
 
-- [Using Prism + Shiny in Xamarin Forms](http://www.xamboy.com/2019/08/22/using-prism-shiny-in-xamarin-forms/)
+- [Using Prism + Shiny in Xamarin Forms](https://www.xamboy.com/2019/08/22/using-prism-shiny-in-xamarin-forms/)
 
-- [GPS Tracking with Prism + Shiny in Xamarin Forms](http://www.xamboy.com/2019/08/27/gps-tracking-with-prism-shiny-in-xamarin-forms/)
+- [GPS Tracking with Prism + Shiny in Xamarin Forms](https://www.xamboy.com/2019/08/27/gps-tracking-with-prism-shiny-in-xamarin-forms/)
 
